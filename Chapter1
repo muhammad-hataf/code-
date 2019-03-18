@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>Chapter 1</title>
+    </head>
+<body>
+    <h1>Welcome to Chapter 1 </h1> <hr/>
+    <p>In this Chapter we will talk about Website Structure</p>
+    <h2> This is Heading 2 </h2>
+    <h3> This is Heading 3 </h3>
+    <h4> This is Heading 4 </h4>
+    <h5> This is Heading 5 </h5>
+    <h6> This is Heading 6 </h6>
+    <p>There are total 6 Headings Format</p>
+    <p><b>This line is written as blog using bold tag</b></p>
+    <p><i>This line is written as italic using italic tag</i></p>
+    <p>Today date is March, 18<sup>th</sup> 2019. (th is written using sup tag)</p>
+    <p>Formula of Water is H<sub>2</sub>O . (2 in formula is written using sub tag)</p>
+    <H2>This is Complete new para with </H2>
+    <p>In this para we break differe lines<br>This is complete new line</br> This is 3<sup>rd</sup>line <hr/>This is the 4<sup>th</sup> line</p>
+    <p> He is <abbr title="Doctor">Dr.</abbr> Fawad Khan (This is the abbrevation tag)</p>
+    <p> You can contact <abbr title="Doctor">Dr.</abbr> Fawad Khan at: <a href="Dr.Fawad@gmail.com">Email</a> </p>
+    <p>There is a <del>young</del> <ins>Mature</ins> Boy in the class.</p>
+    <p>The Fees of this semster is:<br/> <s>Rs.10000</s> <br/>Rs.7000 </p>
+    
+
+
+
+
+</body>
+
+
+
+</html>
